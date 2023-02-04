@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Maniyar</h1>
-<img align="center" alt="Coding" width="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mi5y0xb63i69gsw5qprq7urlhejb563ap9gspf5y&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="180" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mi5y0xb63i69gsw5qprq7urlhejb563ap9gspf5y&rid=giphy.gif&ct=g">
 
 Here are some ideas to get you started:
 
