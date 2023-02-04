@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 💻 Things That i know :-
      JAVA | Spring | C | C++ | HTML | CSS | JAVASCRIPT | KOTLIN | MongoDB
 - 💬 Ask me about any tech realated stuff.
-- Here is My PortFolio Site [Portfolio - Anish Mathakiya](https://techyportfolio.netlify.app/)
-- 📫 How to reach me: [Instagram - @virajmaniyar](https://www.instagram.com/hhayjcrtihcddyncdz/), [Twitter - @anishmathakiya](https://twitter.com/anishmathakiya)
+
+- 📫 How to reach me: [Instagram - @virajmaniyar](https://www.instagram.com/hhayjcrtihcddyncdz/)
 - 😄 Pronouns: He/His 
 
 
