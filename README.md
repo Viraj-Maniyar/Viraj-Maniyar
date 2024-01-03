@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web Development.
 - 💻 Things That i know :-
-     JAVA | Spring | C | C++ | HTML | CSS | JAVASCRIPT | KOTLIN | MongoDB
+     Python | JAVA | C | C++ | HTML | CSS | JAVASCRIPT | Django | mySql
 - 💬 Ask me about any tech realated stuff.
 
 - 📫 How to reach me: [Instagram - @virajmaniyar](https://www.instagram.com/viraj_maniyar/)
