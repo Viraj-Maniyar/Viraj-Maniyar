@@ -8,12 +8,12 @@ Here are some ideas to get you started:
      JAVA | Spring | C | C++ | HTML | CSS | JAVASCRIPT | KOTLIN | MongoDB
 - 💬 Ask me about any tech realated stuff.
 
-- 📫 How to reach me: [Instagram - @virajmaniyar](https://www.instagram.com/hhayjcrtihcddyncdz/)
+- 📫 How to reach me: [Instagram - @virajmaniyar](https://www.instagram.com/viraj_maniyar/)
 - 😄 Pronouns: He/His 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Viraj-Maniyar&label=Profile%20views&color=0e75b6&style=flat" alt="Viraj-Maniyar" /> </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hhayjcrtihcddyncdz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-maniyar-232968224/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/viraj_maniyar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-maniyar-232968224/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E)
