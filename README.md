@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 # 📈 Activity
-[![Anish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Viraj-Maniyar&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Viraj-Maniyar/github-readme-activity-graph)
+[![Viraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Viraj-Maniyar&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Viraj-Maniyar/github-readme-activity-graph)
 
 # Leetcode Stats 🏆
 
